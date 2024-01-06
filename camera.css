@@ -1,0 +1,16 @@
+#video{
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 800px;
+  left: 300px;
+  scroll-behavior: smooth;
+  background-color: #e5fbdb;
+}
+
+#idcanvas{
+/* width: 600px;*/
+/* height: auto;*/
+        cursor: crosshair;
+        position: relative;
+}
